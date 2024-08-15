@@ -59,7 +59,7 @@ The chart highlights product sales by customer demographics, with Cosmetics lead
 The donut chart reveals that Road transport has the highest defect rate (33.4%), with Rail, Air, and Sea following in descending order.
 
 
-## Results
+## Business Insights
 
 - **Optimize Skincare and Cosmetics Inventory:** Increase stock levels and target marketing efforts, as these categories lead in sales and revenue.
   
