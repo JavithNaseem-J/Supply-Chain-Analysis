@@ -1,19 +1,15 @@
 # Supply Chain Efficiency Optimization
 
 ## Project Overview
+This project focuses on optimizing supply chain efficiency by analyzing various operational metrics such as lead time, inventory levels, manufacturing costs, and transportation modes. The goal is to identify areas where improvements can be made to reduce costs and delivery times while enhancing overall efficiency.
 
-This project focuses on optimizing supply chain efficiency using data-driven insights. The goal is to analyze supply chain data to identify inefficiencies, bottlenecks, and areas for potential cost reduction. By leveraging these insights, the project aims to enhance overall supply chain performance, ensuring timely delivery of products, reducing operational costs, and improving customer satisfaction.
-
-## Key Objectives
-
-- Identify key areas where delays and inefficiencies occur.
-- Provide recommendations for optimizing inventory management to reduce holding costs while avoiding stockouts.
-- Develop strategies for improving demand forecasting to better align supply with actual market needs.
-- Analyze transportation costs and suggest methods for minimizing expenses without compromising service quality.
 
 ## Dataset
-
-The analysis is based on a supply chain dataset, which includes Product type	SKU	Price	Availability	Number of products sold,	Revenue generated,Customer demographics,	Stock levels,	Lead times,	Order quantities,	Shipping times,	Shipping carriers,	Shipping costs,	Supplier name,	Location,	Lead time,	Production volumes,	Manufacturing lead time,	Manufacturing costs,	Inspection results,	Defect rates,	Transportation modes and 	Routes	Costs
+The dataset used in this analysis includes 100 records with 24 features, covering various elements of the supply chain such as:
+- Product details (type, SKU, price, availability)
+- Sales data (number of products sold, revenue generated)
+- Inventory and shipping information (stock levels, lead times, shipping costs)
+- Supplier and manufacturing details (supplier name, manufacturing costs, defect rates)
 
 
 ## Tools and Technologies
@@ -28,7 +24,7 @@ The analysis is based on a supply chain dataset, which includes Product type	SKU
 - **Optimization Strategies**: Proposing actionable insights and strategies to improve efficiency based on the analysis.
 - **Visualization**: Creating visualizations to illustrate key findings and support data-driven decision-making.
 
-## Analyze Insights
+## Analyze Findings
 
 ![newplot](https://github.com/user-attachments/assets/8293e319-a482-4dc9-b114-714846d6ff81)
 The Donut chart illustrates the percentage distribution of product sales, with skincare leading at 37.8%, followed by cosmetics at 33%, and haircare at 29.2%.
@@ -59,12 +55,17 @@ The chart highlights product sales by customer demographics, with Cosmetics lead
 The donut chart reveals that Road transport has the highest defect rate (33.4%), with Rail, Air, and Sea following in descending order.
 
 
-## Business Insights
+### Key Findings
+- **Manufacturing Costs**: The average manufacturing cost across all products is $47.27, with some significant outliers.
+- **Shipping Carriers**: Carrier B is the most frequently used shipping carrier, which may suggest a preference based on cost or reliability.
+- **Defect Rates**: The defect rate varies significantly across products, indicating a need for stricter quality control for certain items.
 
-- **Optimize Skincare and Cosmetics Inventory:** Increase stock levels and target marketing efforts, as these categories lead in sales and revenue.
-  
-- **Address High Defect Rates in Road Transport:** Investigate and reduce defect rates in road transport, considering alternative methods if necessary.
-  
-- **Focus on Cost-Effective Shipping:** Prioritize the most cost-effective carriers and routes to improve shipping efficiency and reduce expenses.
+## Conclusion
+The analysis highlights several areas where the supply chain can be optimized. By addressing the high manufacturing costs for certain products, negotiating better rates with shipping carriers, and improving quality control to reduce defect rates, the overall efficiency of the supply chain can be enhanced.
+
+## Next Steps
+- **Implement Optimization Strategies**: Apply the insights gained from the analysis to make data-driven decisions in the supply chain.
+- **Monitor Performance**: Continuously track the impact of these changes to ensure ongoing improvement.
+- **Expand Analysis**: Consider additional factors like supplier lead times and customer satisfaction to further refine the supply chain.
 
 
