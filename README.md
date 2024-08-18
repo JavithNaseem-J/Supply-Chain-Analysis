@@ -24,7 +24,7 @@ The dataset used in this analysis includes 100 records with 24 features, coverin
 - **Optimization Strategies**: Proposing actionable insights and strategies to improve efficiency based on the analysis.
 - **Visualization**: Creating visualizations to illustrate key findings and support data-driven decision-making.
 
-## Analyze Findings
+## Analyze & Findings
 
 ![newplot](https://github.com/user-attachments/assets/8293e319-a482-4dc9-b114-714846d6ff81)
 The Donut chart illustrates the percentage distribution of product sales, with skincare leading at 37.8%, followed by cosmetics at 33%, and haircare at 29.2%.
