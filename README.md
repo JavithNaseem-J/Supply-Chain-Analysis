@@ -90,10 +90,7 @@ The donut chart reveals that Road transport has the highest defect rate (33.4%),
 - **Shipping Carriers**: Carrier B is the most frequently used shipping carrier, which may suggest a preference based on cost or reliability.
 - **Defect Rates**: The defect rate varies significantly across products, indicating a need for stricter quality control for certain items.
 
-## Conclusion
-The analysis highlights several areas where the supply chain can be optimized. By addressing the high manufacturing costs for certain products, negotiating better rates with shipping carriers, and improving quality control to reduce defect rates, the overall efficiency of the supply chain can be enhanced.
-
-## Next Steps
+## Recommendations
 - **Implement Optimization Strategies**: Apply the insights gained from the analysis to make data-driven decisions in the supply chain.
 - **Monitor Performance**: Continuously track the impact of these changes to ensure ongoing improvement.
 - **Expand Analysis**: Consider additional factors like supplier lead times and customer satisfaction to further refine the supply chain.
